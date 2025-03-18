@@ -1,13 +1,14 @@
 import './App.css'
+function App () {}
 
-function App() {
-  
-
+export default function App() {
   return (
     <>
-       
+      <ContactList />
     </>
-  )
+  );
 }
+
+
 
 export default App
